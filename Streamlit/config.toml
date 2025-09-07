@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 50
+maxMessageSize = 50
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
