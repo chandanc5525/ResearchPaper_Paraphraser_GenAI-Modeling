@@ -12,8 +12,8 @@ from sentence_transformers import SentenceTransformer, util
 
 st.set_page_config(page_title="Research Paraphraser", page_icon="📝", layout="wide")
 st.title("Research Paper Paraphraser")
-st.title("Prepared By: Chandan Chaudhari")
-st.title("Github: "https://github.com/chandanc5525")
+st.markdown("Prepared By: Chandan Chaudhari")
+st.markdown("Github: https://github.com/chandanc5525")
 st.markdown("Generate plagiarism-free paraphrased content for research papers")
 
 # Download NLTK :
